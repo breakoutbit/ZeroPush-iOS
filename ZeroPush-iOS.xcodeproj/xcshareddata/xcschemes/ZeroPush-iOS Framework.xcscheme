@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "379E66A41B3D3B8B009B6AF3"
-               BuildableName = "ZeroPush-iOS Framework.framework"
+               BuildableName = "ZeroPush.framework"
                BlueprintName = "ZeroPush-iOS Framework"
                ReferencedContainer = "container:ZeroPush-iOS.xcodeproj">
             </BuildableReference>
@@ -57,7 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "379E66A41B3D3B8B009B6AF3"
-            BuildableName = "ZeroPush-iOS Framework.framework"
+            BuildableName = "ZeroPush.framework"
             BlueprintName = "ZeroPush-iOS Framework"
             ReferencedContainer = "container:ZeroPush-iOS.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "379E66A41B3D3B8B009B6AF3"
-            BuildableName = "ZeroPush-iOS Framework.framework"
+            BuildableName = "ZeroPush.framework"
             BlueprintName = "ZeroPush-iOS Framework"
             ReferencedContainer = "container:ZeroPush-iOS.xcodeproj">
          </BuildableReference>
@@ -94,7 +94,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "379E66A41B3D3B8B009B6AF3"
-            BuildableName = "ZeroPush-iOS Framework.framework"
+            BuildableName = "ZeroPush.framework"
             BlueprintName = "ZeroPush-iOS Framework"
             ReferencedContainer = "container:ZeroPush-iOS.xcodeproj">
          </BuildableReference>
